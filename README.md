@@ -5,10 +5,12 @@ This Research and Reflection Journal will contain all required and recommended a
 ---
 ---
 ---
+<h2 align="center">
+WEEK 8
+</h2>
 
-## Week 8:
 
-### Activity 1: Research a New Language
+## Activity 1: Research a New Language
 
 **What is the language used for? :**
 
@@ -33,13 +35,13 @@ These resources are beneficial as they cater to different learning styles and le
 
 ---
 
-## Choose a language for community code
+## Activity 2: Choose a language for community code
 
 For the community code project, I am choosing one of the most widely utilized JavaScript frameworks, namely the Node.js, This framework is extensively employed for developing backend servers and managing APIs. Leveraging my prior experience with JavaScript in a scholastic context, I believe that delving into the Node.js framework is an optimal choice for advancing my research and enhancing my proficiency in backend technologies.
 
 ---
 
-## Write a user story:
+## Activity 3: Write a user story:
 
 ### App Example: **TaskPro**
 
@@ -78,7 +80,10 @@ TaskPro is a powerful and user-friendly task management app designed for seamles
 * The application should adhere to user-specified notification settings, such as sound and vibration preferences.
 
 ---
----
+
+## Activity 4 - Star Github topics repositories of interest
+
+During the GitHub exploration activity, I delved into the diverse landscape of open-source communities, repositories, and topics. Navigating through the Explore, Topics, Trending, and Collections tabs, I meticulously starred repositories and topics that piqued my interest. This process not only broadened my understanding of the vast array of projects but also provided valuable insights into trending technologies and curated collections. The outcome of this activity is a personalized collection of starred repositories and topics, serving as a curated roadmap for potential areas of contribution and learning. As I revisited the Explore tab after starring items, I observed a refreshing mix of content, showcasing the immediate impact of my exploration. Overall, this activity has equipped me with a rich set of resources and insights that will undoubtedly guide my involvement in the upcoming Community Code project.
 
 
 
