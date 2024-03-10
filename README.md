@@ -97,6 +97,22 @@ During the GitHub exploration activity, I delved into the diverse landscape of o
 WEEK 9
 </h2>
 
+---
 
+## Activity 1: Read the Community Code Assignment
 
+The assignment has two main goals: promoting good coding practices and contributing to open-source communities. It's split into two parts, and although both need completion, you only have to contribute code to one of them. The two parts are meant to be worked on simultaneously, not sequentially.
 
+**Part 1** : involves finding and contributing to a real open-source community. Contributions can range from improving code documentation to answering community questions or even creating tutorials. The outcome should be a well-defined contribution, which you can choose to share or keep private. The preparation involves forking a project, creating a development branch, making changes, and undergoing a code review. Detailed documentation about the open-source project, links to your fork, issues examined, and the code review process is required in your Research and Reflection Journal.
+
+**Part 2** : is about contributing to a custom open-source project, specifically the DGL 104 pattern library repository. This part requires creating code resources for future students, implementing design and architecture patterns, and following open-source project practices. All contributions should be made through pull requests, and work should be tracked via issues. Logging all work in your Research and Reflection Journal, including a final reflection, is crucial for your contributions to count. The time commitment for this assignment is significant, with an expected contribution of around 16 hours over the assignment's duration. Overall, the assignment is designed to provide practical experience in open-source contribution, emphasizing real-world projects and community engagement while adhering to industry standards.
+
+---
+
+## Activity 2: How to Contribute to Open Source
+
+---
+
+## Activity 4: Identify Issues to Support
+
+---
