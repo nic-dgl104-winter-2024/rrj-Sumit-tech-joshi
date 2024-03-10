@@ -14,14 +14,16 @@ Haskell is a functional programming language primarily used for complex mathemat
 
 
 **Who uses the language? :** 
+
 Various organizations and companies utilize Haskell in their projects, including financial institutions like Standard Chartered and Barclays, as well as technology companies such as Facebook and GitHub. Haskell's unique features make it a preferred choice for applications that require correctness, reliability, and maintainability.
 
 
 **What are some useful resources? :**
 
-The Haskell programming language website: (Haskell)[https://www.haskell.org/] serves as a comprehensive hub for documentation, tutorials, and community support. The (Haskell Reddit)[https://www.reddit.com/r/haskell/] community is another useful platform for getting help, sharing experiences, and staying updated on Haskell-related developments. 
+The Haskell programming language website: [Haskell](https://www.haskell.org/) serves as a comprehensive hub for documentation, tutorials, and community support. The [Haskell Reddit](https://www.reddit.com/r/haskell/) community is another useful platform for getting help, sharing experiences, and staying updated on Haskell-related developments. 
 
 
 **Why are these specific resources useful?**
+
 These resources are beneficial as they cater to different learning styles and levels of expertise, enabling individuals to grasp Haskell concepts and apply them effectively in their projects.
 
