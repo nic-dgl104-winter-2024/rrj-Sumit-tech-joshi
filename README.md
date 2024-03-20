@@ -128,8 +128,13 @@ The assignment has two main goals: promoting good coding practices and contribut
 
 ---
 
+
+## Activity 4: Identifying Potential Projects for Contribution
+
+Task 1: Explore platforms like [Good First Issue](https://goodfirstissue.dev/), [Up for Grabs](https://up-for-grabs.net/#/), and [CodeTriage](https://www.codetriage.com/) to find projects suitable for contributing to the JavaScript community.
+
+Task 2: Utilize the checklist to assess project suitability, resulting in the selection of three appropriate projects.
+
+
 ## Activity 3: Identify Issues to Support
-
-
-
 ---
