@@ -130,4 +130,6 @@ The assignment has two main goals: promoting good coding practices and contribut
 
 ## Activity 3: Identify Issues to Support
 
+
+
 ---
