@@ -1,5 +1,4 @@
 # Research and Reflection Journal
-
 This Research and Reflection Journal will contain all required and recommended activities in DGL 104 from week 8 through to the end of the semester.
 
 ---
@@ -185,10 +184,61 @@ Created [pull request](https://github.com/validatorjs/validator.js/pull/2381
     }
 ``` 
 
-Reflection
-
+### Reflection
 In this task, I successfully identified an issue within the Validator.js library related to the incorrect validation of dates with a hyphen at the beginning of the year. By thoroughly understanding the problem and proposing a solution, I contributed to the open-source community by creating a [pull request](https://github.com/validatorjs/validator.js/pull/2381
 ) to fix the issue. My contribution demonstrates proactive engagement in improving the functionality and reliability of widely-used JavaScript libraries, thereby enhancing the overall developer experience and promoting collaboration within the development community. Through this task, I not only addressed a specific issue but also gained valuable experience in identifying, analyzing, and resolving software issues in an open-source context, fostering continuous learning and growth as developers.
 
-Reference
+### Reference
 Good first issue in JavaScript :[goodfirstissue](https://goodfirstissue.dev/language/javascript)
+
+---
+---
+
+
+<h2 align="center">
+WEEK 10
+</h2>
+
+---
+
+
+## Activity 1: Assess External Community Contribution Guidelines
+
+Completed below tasks:
+* Visited the Validator.js repository on GitHub.
+* Reviewed the README.md document for general information about the project.
+Searched for relevant contribution guidelines, including CONTRIBUTING.md or similar documents.
+* Identified specific steps and processes required to contribute to the project.
+* Noted down the code of conduct and any specific contribution guidelines.
+* Understood how to submit a pull request and the workflow for contributing changes.
+* Applied the identified guidelines while addressing the open issue related to the isDate function.
+* Created a CONTRIBUTING.md document in my Research & Reflection Journal summarizing the learned contribution guidelines specific to the Validator.js project.
+
+## Activity 2:  CONTRIBUTE TO EXTERNAL COMMUNITY
+* Forked the external repository I intend to contribute to, placing it on my personal GitHub account.
+* Cloned my fork to my local machine to start working on the contribution.
+* Created a new branch in the repository to isolate my changes from the main branch, ensuring smoother collaboration and version control.
+* Identified the contribution I intend to make in my CONTRIBUTING.md document in my Research & Reflection Journal.
+* The contribution could be a solution to an open issue previously identified or based on priorities stated in the project documentation.
+* Included links to the external community and project in the CONTRIBUTING.md document.
+* Provided a summary of the issue I intend to work on, including links if relevant, to provide context to potential reviewers.
+* Included links and a summary description of any project documentation that demonstrates the value of my intended work to the community, showcasing the importance and impact of the contribution.
+
+
+### CONTRIBUTE TO PATTERN-LIBRARY
+
+Forked the pattern-library repository to my personal GitHub account.
+
+* Cloned my fork to my local machine to start working on the contribution.
+
+* Created a new branch in the repository to isolate my changes from the main branch, ensuring smoother collaboration and version control.
+
+* Visited the pattern library issues tab to explore open issues and identify [one issue](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/27) that I can contribute to.
+
+* Found a suitable issue that matches my skills and interests, potentially one labeled as a good-first-issue.
+
+* Requested to be assigned to the issue by commenting on the issue thread, indicating my interest in working on it and seeking guidance or clarification if needed.
+
+* Prepared to start working on the assigned issue, following any guidelines or instructions provided by the project maintainers.
+
+* Created pull request after 
