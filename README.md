@@ -241,4 +241,4 @@ Forked the pattern-library repository to my personal GitHub account.
 
 * Prepared to start working on the assigned issue, following any guidelines or instructions provided by the project maintainers.
 
-* Created pull request after 
+* Created pull request after doing research on multiple platforms and created pull requests: [#73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73) and [#59](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/59) to resolve it.
