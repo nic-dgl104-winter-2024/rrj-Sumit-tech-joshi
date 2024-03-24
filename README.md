@@ -242,3 +242,10 @@ Forked the pattern-library repository to my personal GitHub account.
 * Prepared to start working on the assigned issue, following any guidelines or instructions provided by the project maintainers.
 
 * Created pull request after doing research on multiple platforms and created pull requests: [#73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73) and [#59](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/59) to resolve it.
+
+
+## FOLLOW-UP QUESTIONS AND REFLECTIONS
+
+For the COMMUNITY CONTRIBUTION task, I encountered challenges primarily in identifying a suitable issue aligning with my technical expertise and understanding the code structure of the external repository on GitHub. It required meticulous exploration of the repository's issues section to pinpoint an issue that matched my skills and interests. Additionally, comprehending the codebase and project architecture was crucial for proposing an effective solution. Once the issue was identified, I delved into the project documentation to grasp the context and requirements for addressing the issue effectively. This process demanded thorough research and a keen understanding of the project's objectives and guidelines.
+
+Regarding the PATTERN LIBRARY task, my strategy was to seek opportunities to enhance my JavaScript knowledge base by contributing to an issue requiring research and development on Functional Patterns vs. OOP Design Patterns in JavaScript. This endeavor involved significant efforts in conducting research on the specified topics and synthesizing the findings into actionable insights. Subsequently, I worked on incorporating my contribution into the README file, accompanied by relevant code examples to elucidate the concepts discussed. Furthermore, addressing comments on the pull request provided an opportunity for iterative improvement, demonstrating my commitment to delivering high-quality contributions and engaging in collaborative development practices.
