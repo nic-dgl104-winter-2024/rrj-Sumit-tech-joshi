@@ -189,3 +189,6 @@ Reflection
 
 In this task, I successfully identified an issue within the Validator.js library related to the incorrect validation of dates with a hyphen at the beginning of the year. By thoroughly understanding the problem and proposing a solution, I contributed to the open-source community by creating a [pull request](https://github.com/validatorjs/validator.js/pull/2381
 ) to fix the issue. My contribution demonstrates proactive engagement in improving the functionality and reliability of widely-used JavaScript libraries, thereby enhancing the overall developer experience and promoting collaboration within the development community. Through this task, I not only addressed a specific issue but also gained valuable experience in identifying, analyzing, and resolving software issues in an open-source context, fostering continuous learning and growth as developers.
+
+Reference
+Good first issue in JavaScript :[goodfirstissue](https://goodfirstissue.dev/language/javascript)
