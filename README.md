@@ -129,12 +129,63 @@ The assignment has two main goals: promoting good coding practices and contribut
 ---
 
 
-## Activity 4: Identifying Potential Projects for Contribution
+## Activity 3: Identifying Potential Projects for Contribution
 
 Task 1: Explore platforms like [Good First Issue](https://goodfirstissue.dev/), [Up for Grabs](https://up-for-grabs.net/#/), and [CodeTriage](https://www.codetriage.com/) to find projects suitable for contributing to the JavaScript community.
 
 Task 2: Utilize the checklist to assess project suitability, resulting in the selection of three appropriate projects.
 
 
-## Activity 3: Identify Issues to Support
----
+Here are the projects I choose to contibute to
+
+1: [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/)
+
+freeCodeCamp.org is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3)](https://www.freecodecamp.org/donate/) charity to help millions of busy adults transition into tech. This community has already helped more than 40,000 people get their first developer job.
+
+freeCodeCamp full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
+
+Currently freeCodeCamp is having 280 issues 
+
+2: [Darkreader](https://github.com/darkreader/darkreader)
+
+Dark Reader is an open-source MIT-licensed browser extension designed to analyze web pages. Dark Reader will generate a dark mode that aims to reduce the eyestrain of the user. Dark Reader is feature-rich and is customizable in many ways throughout the UI.
+
+Currently Darkreader is having 1.1k issues 
+
+3: [Validator](https://github.com/validatorjs/validator.js)
+
+The Validator library is a JavaScript validation library commonly used in web development to validate various types of data, such as strings, numbers, dates, and more. It provides a simple and flexible way to validate input data and enforce validation rules.
+
+Currently Darkreader is having 170 issues 
+
+
+## Activity 4: Identify Issues to Support
+
+### Issues
+Validator is a widly used javascript library to validate various types of data, such as strings, numbers, dates, and more. It provides a simple and flexible way to validate input data and enforce validation rules.
+
+The [issue](https://github.com/validatorjs/validator.js/issues/2355
+) i found to add support is related to validate isDate function
+
+**Issue:** The date is validated when the date is clearly not valid. You can put hyphen in the beginning of a date and it is treated as the right format.
+
+Expected behavior
+"-2012" not valid
+
+Actual behavior
+"-2012" valid
+
+### Contribution
+Created [pull request](https://github.com/validatorjs/validator.js/pull/2381
+) for fixing the issue by adding validator by adding code pre fix check on year.
+```
+// Check if the year starts with a hyphen
+    if (fullYear.startsWith('-')) {
+      return false; // Hyphen before year is not allowed
+    }
+``` 
+
+Reflection
+
+In this task, I successfully identified an issue within the Validator.js library related to the incorrect validation of dates with a hyphen at the beginning of the year. By thoroughly understanding the problem and proposing a solution, I contributed to the open-source community by creating a [pull request](https://github.com/validatorjs/validator.js/pull/2381
+) to fix the issue. My contribution demonstrates proactive engagement in improving the functionality and reliability of widely-used JavaScript libraries, thereby enhancing the overall developer experience and promoting collaboration within the development community. Through this task, I not only addressed a specific issue but also gained valuable experience in identifying, analyzing, and resolving software issues in an open-source context, fostering continuous learning and growth as developers.
