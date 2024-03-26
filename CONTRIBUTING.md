@@ -10,7 +10,7 @@ The [Validator](https://github.com/validatorjs/validator.js) library is a JavaSc
 
 
 
- ### **Summary of issues:**
+ ### Summary of the selected issue:
 
 
 I stumbled upon an issue that I believe could serve as a valuable opportunity for learning and contributing to an open-source project. This particular issue appears to align well with my interests and expertise, making it an ideal candidate for my involvement.
@@ -63,3 +63,38 @@ My contribution to the Validator library reflects my commitment to fostering col
 
 ## Part 2:  pattern Library Contribution :  
 
+### About the Selcted issue on the pattern Library:
+
+I have chosen to document the contrast between functional patterns and object-oriented programming (OOP) because, based on my previous experience with JavaScript, I believe delving into pattern implementation for both paradigms will greatly benefit programmers in understanding and selecting design patterns.
+
+I believe that by providing a comprehensive exploration of functional patterns and OOP, programmers will gain valuable insights into the intricacies of each approach. This understanding will make it easier for them to make informed decisions when choosing the appropriate design patterns for their projects.
+
+## Contribution
+
+Actions I've taken with respect to Pattern Library Issues:
+
+* Added a comment on issue [#27](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/27) to be assigned for doing research on Contrast functional patterns vs. OOP design patterns in README.md
+
+* Worked on the issue [#27](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/27), wrote the fidings on implementation of the Singleton pattern and made a pull request to merge my forked repository with the main pattern library repository
+
+* Finished work on the issue and created PR [#59](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/59) for the same.
+
+* Got comments on PR #59 and reviewed them.
+
+* Attempted to remove conflicts on the PR, leading to the need to rebase the branch and resulting in automatic closure of the PR. As a result, a new PR [#73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73) was created.
+
+* After conflict resolution, a comment was received on the PR [#73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73) suggesting a change in the structure of the comparison.
+
+* All comments on the PR [#73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73) have been addressed, and another review is requested.
+
+
+
+## Reflections
+
+In this task, I engaged in exploring the contrast between functional patterns and object-oriented programming (OOP) design patterns in JavaScript. Initially, I expressed interest in the subject and was assigned the responsibility to conduct research and contribute to the project. My focus centered on implementing the Singleton pattern, which involved understanding its principles and intricacies within the JavaScript context. Subsequently, I submitted a pull request (PR [#59](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/59)) to integrate my findings into the main pattern library repository.
+
+However, the process wasn't without challenges; I encountered conflicts during the review phase, necessitating the creation of a new PR [#73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73) to address these issues. Despite this setback, I remained receptive to feedback and diligently addressed comments and suggestions to refine the contribution.
+
+This task provided valuable insights into collaborative software development practices, emphasizing effective communication, adaptability, and attention to detail. Moreover, it underscored the significance of comprehending different programming paradigms and patterns, highlighting their diverse approaches to problem-solving and the importance of selecting the most suitable approach for a given context. Overall, this experience reinforced the importance of persistence and flexibility in navigating challenges and achieving successful outcomes in collaborative projects.
+
+References
