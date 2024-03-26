@@ -249,3 +249,44 @@ Forked the pattern-library repository to my personal GitHub account.
 For the COMMUNITY CONTRIBUTION task, I encountered challenges primarily in identifying a suitable issue aligning with my technical expertise and understanding the code structure of the external repository on GitHub. It required meticulous exploration of the repository's issues section to pinpoint an issue that matched my skills and interests. Additionally, comprehending the codebase and project architecture was crucial for proposing an effective solution. Once the issue was identified, I delved into the project documentation to grasp the context and requirements for addressing the issue effectively. This process demanded thorough research and a keen understanding of the project's objectives and guidelines.
 
 Regarding the PATTERN LIBRARY task, my strategy was to seek opportunities to enhance my JavaScript knowledge base by contributing to an issue requiring research and development on Functional Patterns vs. OOP Design Patterns in JavaScript. This endeavor involved significant efforts in conducting research on the specified topics and synthesizing the findings into actionable insights. Subsequently, I worked on incorporating my contribution into the README file, accompanied by relevant code examples to elucidate the concepts discussed. Furthermore, addressing comments on the pull request provided an opportunity for iterative improvement, demonstrating my commitment to delivering high-quality contributions and engaging in collaborative development practices.
+
+
+---
+---
+
+
+<h2 align="center">
+WEEK 11
+</h2>
+
+---
+
+## Activity: Read through pattern library issues
+
+Actions I've taken with respect to Pattern Library Issues:
+
+* Added a comment on issue [#27](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/27) to be assigned for doing research on Contrast functional patterns vs. OOP design patterns in README.md
+
+* Worked on the issue [#27](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/27), wrote the fidings on implementation of the Singleton pattern and made a pull request to merge my forked repository with the main pattern library repository
+
+* Finished work on the issue and created PR [#59](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/59) for the same.
+
+* Got comments on PR #59 and reviewed them.
+
+* Attempted to remove conflicts on the PR, leading to the need to rebase the branch and resulting in automatic closure of the PR. As a result, a new PR [#73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73) was created.
+
+* After conflict resolution, a comment was received on the PR [#73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73) suggesting a change in the structure of the comparison.
+
+* All comments on the PR [#73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73) have been addressed, and another review is requested.
+
+
+
+## Reflections
+
+In this task, I engaged in exploring the contrast between functional patterns and object-oriented programming (OOP) design patterns in JavaScript. Initially, I expressed interest in the subject and was assigned the responsibility to conduct research and contribute to the project. My focus centered on implementing the Singleton pattern, which involved understanding its principles and intricacies within the JavaScript context. Subsequently, I submitted a pull request (PR [#59](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/59)) to integrate my findings into the main pattern library repository.
+
+However, the process wasn't without challenges; I encountered conflicts during the review phase, necessitating the creation of a new PR [#73](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/73) to address these issues. Despite this setback, I remained receptive to feedback and diligently addressed comments and suggestions to refine the contribution.
+
+This task provided valuable insights into collaborative software development practices, emphasizing effective communication, adaptability, and attention to detail. Moreover, it underscored the significance of comprehending different programming paradigms and patterns, highlighting their diverse approaches to problem-solving and the importance of selecting the most suitable approach for a given context. Overall, this experience reinforced the importance of persistence and flexibility in navigating challenges and achieving successful outcomes in collaborative projects.
+
+References
