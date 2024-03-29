@@ -70,7 +70,7 @@ My contribution to the Validator library reflects my commitment to fostering col
 
 ### References
 
-(JavaScript Date function)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date]
+[JavaScript Date function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 
 
 ---

@@ -295,4 +295,4 @@ References
 
 [Writing test cases in Javascript](https://www.lambdatest.com/learning-hub/javascript-unit-testing) 
 
-(JavaScript Date function)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date]
+[JavaScript Date function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
