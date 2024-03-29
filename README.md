@@ -290,3 +290,9 @@ However, the process wasn't without challenges; I encountered conflicts during t
 This task provided valuable insights into collaborative software development practices, emphasizing effective communication, adaptability, and attention to detail. Moreover, it underscored the significance of comprehending different programming paradigms and patterns, highlighting their diverse approaches to problem-solving and the importance of selecting the most suitable approach for a given context. Overall, this experience reinforced the importance of persistence and flexibility in navigating challenges and achieving successful outcomes in collaborative projects.
 
 References
+
+[Javascript string function: startWith()](https://www.w3schools.com/jsref/jsref_startswith.asp#:~:text=The%20startsWith()%20method%20returns,()%20method%20is%20case%20sensitive.)
+
+[Writing test cases in Javascript](https://www.lambdatest.com/learning-hub/javascript-unit-testing) 
+
+(JavaScript Date function)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date]
