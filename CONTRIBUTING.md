@@ -29,9 +29,9 @@ Actual behavior
 
 ### Contribution
 
-* I've created a fork of the original code. You can access my fork through this link.
+* I've created a [fork](https://github.com/Sumit-tech-joshi/validator.js) of the original code. You can access my fork through this link.
 
-* Following that, I established a dev branch from the fork to address the issue at hand.
+* Following that, I established a dev [branch](https://github.com/Sumit-tech-joshi/validator.js/tree/dev-date-issue) from the fork to address the issue at hand.
 
 * I conducted a thorough review of the code implementation to understand how the validation operates within the project.
 
@@ -50,16 +50,31 @@ Actual behavior
 * Created [pull request](https://github.com/validatorjs/validator.js/pull/2381 for the same
 )  
 
+### Detailed discussion of code review and outcomes
+
+* Got comments on PR by [repository owner](https://github.com/WikiRik) for adding test cases. [Link for the comment](https://github.com/validatorjs/validator.js/pull/2381#pullrequestreview-1956457214)
+
+* Also got comment from [Mitsuhiro Kadota](https://github.com/michiwo1) for same test cases.
+
+* Added require test cases for the date and updated the PR [#2381](https://github.com/validatorjs/validator.js/pull/2381)
+.
+
+* Received a comment on the PR regarding the addition of the new date function in the test case. After conducting research on the JavaScript (Date function)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date], I added a comment on the PR with my findings.
+
+
 
 ### Reflection
 
 My contribution to the Validator library reflects my commitment to fostering collaborative development within the open-source community. By actively engaging with the project, I not only addressed a specific issue but also gained valuable insights into code review, testing, and collaboration practices. Moving forward, I look forward to continuing my involvement in open-source projects, further honing my skills and making meaningful contributions to the community.
 
 
+### References
+
+(JavaScript Date function)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date]
 
 
-
-
+---
+---
 
 ## Part 2:  pattern Library Contribution :  
 
@@ -97,4 +112,8 @@ However, the process wasn't without challenges; I encountered conflicts during t
 
 This task provided valuable insights into collaborative software development practices, emphasizing effective communication, adaptability, and attention to detail. Moreover, it underscored the significance of comprehending different programming paradigms and patterns, highlighting their diverse approaches to problem-solving and the importance of selecting the most suitable approach for a given context. Overall, this experience reinforced the importance of persistence and flexibility in navigating challenges and achieving successful outcomes in collaborative projects.
 
-References
+### References
+
+[Javascript string function: startWith()](https://www.w3schools.com/jsref/jsref_startswith.asp#:~:text=The%20startsWith()%20method%20returns,()%20method%20is%20case%20sensitive.)
+
+[Writing test cases in Javascript](https://www.lambdatest.com/learning-hub/javascript-unit-testing) 
