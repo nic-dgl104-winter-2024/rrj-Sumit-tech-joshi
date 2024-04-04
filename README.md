@@ -144,18 +144,25 @@ freeCodeCamp.org is a friendly community where you can learn to code for free. I
 freeCodeCamp full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
 
 Currently freeCodeCamp is having 280 issues 
+<img width="877" alt="Screenshot 2024-04-03 at 9 57 13 PM" src="https://github.com/nic-dgl104-winter-2024/rrj-Sumit-tech-joshi/assets/47482270/ca3f1a5f-5346-44c4-bab9-eb0bb28d17de">
+
+
 
 2: [Darkreader](https://github.com/darkreader/darkreader)
 
 Dark Reader is an open-source MIT-licensed browser extension designed to analyze web pages. Dark Reader will generate a dark mode that aims to reduce the eyestrain of the user. Dark Reader is feature-rich and is customizable in many ways throughout the UI.
 
 Currently Darkreader is having 1.1k issues 
+<img width="859" alt="Screenshot 2024-04-03 at 9 58 19 PM" src="https://github.com/nic-dgl104-winter-2024/rrj-Sumit-tech-joshi/assets/47482270/66502bd7-82bb-4434-a8df-812f80e0e363">
+
 
 3: [Validator](https://github.com/validatorjs/validator.js)
 
 The Validator library is a JavaScript validation library commonly used in web development to validate various types of data, such as strings, numbers, dates, and more. It provides a simple and flexible way to validate input data and enforce validation rules.
 
 Currently Darkreader is having 170 issues 
+
+<img width="817" alt="Screenshot 2024-04-03 at 9 57 33 PM" src="https://github.com/nic-dgl104-winter-2024/rrj-Sumit-tech-joshi/assets/47482270/37348022-b8bc-45ad-a935-072df1a2fa39">
 
 
 ## Activity 4: Identify Issues to Support
