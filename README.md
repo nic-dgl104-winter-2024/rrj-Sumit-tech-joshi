@@ -3,11 +3,19 @@ This Research and Reflection Journal will contain all required and recommended a
 
 ---
 ---
+
+| Week | Link |
+|------|------|
+| Week 8 | [Research a New Language](#week-8) |
+| Week 9 | [Read the Community Code Assignment](#week-9) |
+| Week 10 | [Assess External Community Contribution Guidelines](#week-10) |
+| Week 11 | [Read through pattern library issues](#week-11) |
+
 ---
 <h2 align="center">
 WEEK 8
 </h2>
-
+<a id="week-8"></a>
 
 ## Activity 1: Research a New Language
 
@@ -97,6 +105,7 @@ WEEK 9
 </h2>
 
 ---
+<a id="week-9"></a>
 
 ## Activity 1: Read the Community Code Assignment
 
@@ -207,7 +216,7 @@ WEEK 10
 </h2>
 
 ---
-
+<a id="week-10"></a>
 
 ## Activity 1: Assess External Community Contribution Guidelines
 
@@ -267,6 +276,7 @@ WEEK 11
 </h2>
 
 ---
+<a id="week-11"></a>
 
 ## Activity: Read through pattern library issues
 
@@ -303,3 +313,19 @@ References
 [Writing test cases in Javascript](https://www.lambdatest.com/learning-hub/javascript-unit-testing) 
 
 [JavaScript Date function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+
+
+---
+---
+
+<h2 align="center">
+WEEK 12
+</h2>
+
+---
+<a id="week-12"></a>
+
+## Personal contributions on pattern library and external library
+
+Contributed on the peer's PR and submitted community code project on brightspace.
+
