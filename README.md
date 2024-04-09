@@ -10,6 +10,8 @@ This Research and Reflection Journal will contain all required and recommended a
 | Week 9 | [Read the Community Code Assignment](#week-9) |
 | Week 10 | [Assess External Community Contribution Guidelines](#week-10) |
 | Week 11 | [Read through pattern library issues](#week-11) |
+| Week 12 | [Personal contributions on pattern library](#week-12) |
+
 
 ---
 <h2 align="center">
@@ -327,5 +329,47 @@ WEEK 12
 
 ## Personal contributions on pattern library and external library
 
-Contributed on the peer's PR and submitted community code project on brightspace.
+* This week, I successfully completed all my coding tasks and finalized the version of my pull request. Engaging with the open-source community on GitHub to discuss pull request issues and resolving them was a valuable experience. It provided me with insights into real-world technical challenges and enhanced my skills as a developer.
+
+* Contributed on the peer's PR and submitted community code project on brightspace.
+
+## Reflection
+
+Reflection on Community Code Project Contributions
+
+Throughout my engagement with the Community Code project, encompassing both parts 1 and 2, I've undergone a significant journey of learning and growth as a programmer. This reflection will delve into the insights gained regarding open-source contributions, as well as the technical knowledge acquired in design and architectural patterns. Additionally, I'll discuss how the Community Code project has supported my development as a programmer.
+
+### Open Source Contributions
+
+Participating in open-source contributions, particularly through the Validator library, has been an enriching experience. It provided me with hands-on exposure to collaborative software development practices within the open-source community. One of the most notable takeaways from this endeavor was understanding the importance of thorough code review and testing in ensuring the quality and reliability of software.
+
+By addressing a specific issue within the Validator library, I not only tackled a real-world problem but also navigated the intricate process of contributing to an established codebase. Through creating a fork, establishing a development branch, and submitting a pull request, I gained practical experience in version control and Git workflows. Moreover, engaging in discussions and receiving feedback from repository owners and fellow contributors enhanced my understanding of best practices and coding standards within the community.
+
+Furthermore, my involvement in the Validator library underscored the collaborative nature of open-source projects. By working alongside other developers, I learned the importance of effective communication and teamwork in driving collective progress. This experience not only bolstered my technical skills but also instilled in me a sense of responsibility and accountability towards the broader open-source community.
+
+### Technical Knowledge in Design/Architectural Patterns
+
+In addition to my contributions to the Validator library, my engagement with the Pattern Library further deepened my understanding of design and architectural patterns, specifically contrasting functional patterns with object-oriented programming (OOP) design patterns. Through research and implementation, I gained insights into the principles and applications of various design patterns within the JavaScript ecosystem.
+
+Exploring the Singleton pattern and its implementation in JavaScript provided valuable insights into managing object creation and ensuring a single instance throughout the application lifecycle. Despite encountering challenges such as conflicts during the review phase, I persevered and refined my contribution, demonstrating adaptability and resilience in navigating complex technical issues.
+
+Moreover, this experience highlighted the importance of understanding different programming paradigms and selecting appropriate design patterns based on project requirements. By comparing functional patterns with OOP design patterns, I gained a holistic perspective on software design principles, enabling me to make informed decisions in future projects.
+
+### Impact on Development as a Programmer
+
+The Community Code project has played a pivotal role in my development as a programmer, offering a platform for practical learning and skill enhancement. Through hands-on contributions to open-source projects, I've honed my technical proficiency in JavaScript and gained valuable experience in collaborative software development practices.
+
+Moreover, my involvement in the project has fostered a growth mindset, encouraging continuous learning and exploration of new concepts and technologies. By actively engaging with the open-source community, I've expanded my professional network, forged meaningful connections, and received mentorship from experienced developers, thereby accelerating my growth as a programmer.
+
+Looking ahead, I am eager to continue my involvement in the Community Code project and other open-source initiatives, leveraging my newfound knowledge and skills to make meaningful contributions to the community while furthering my own development as a programmer.
+
+In conclusion, my participation in the Community Code project has been a transformative journey, fueling my passion for software development and equipping me with the tools and insights needed to thrive in the ever-evolving tech landscape. As I embark on future endeavors, I am grateful for the invaluable experiences and opportunities for growth afforded by this project.
+
+
+
+
+
+
+
+
 
